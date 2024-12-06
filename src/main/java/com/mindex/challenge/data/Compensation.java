@@ -1,7 +1,7 @@
 package com.mindex.challenge.data;
 
 public class Compensation {
-    //We will connect to an employee via ID, instead of a full Employee object
+    //We will connect to an employee via ID
     private String employeeId;
     private int salary;
     private String effectiveDate;
